@@ -108,16 +108,16 @@ npm start
 <details>
  <summary><b> 🍭 Grupos Oficiales </b></summary>
 
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD)
+ * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g)
+* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/LkSWzFaEatqHR83Jkp33N8)
+* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/LkSWzFaEatqHR83Jkp33N8)
 </details>
 
 <details>
 <summary><b> 💭 Contáctos</b></summary>
 
-* WhatsApp: [`Aquí`](https:/Wa.me/584120346669)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+* WhatsApp: [`Aquí`](https:/Wa.me/5491126852241)
+* Correo: [`Aquí`](federicovigevani834@gamil.com)
 
 </details>
 
@@ -200,7 +200,7 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 ### **`👑 Propietario`**
 <a
 href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
+ⁱᵃᵐ᭄𝐹ҽԃҽ࿐ཽ༵¹³𝚇"/></a>
 
 ### **`🪐 Créditos`**
 <a href="https://github.com/OfcKing" style="display:inline-block; text-decoration: none;">
