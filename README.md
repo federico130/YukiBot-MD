@@ -177,7 +177,7 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 ---
 
 ###  **`DESCONOSIDO`**
-<a href="https://bronxyshost.com"><img src="https://tinyurl.com/23qv2kvr" height="145px"></a>
+<a href="https://federico130.com"><img src="https://tinyurl.com/23qv2kvr" height="145px"></a>
 
 <details>
  <summary><b>♣️ Servidor Bronxy-Hosting</b></summary>
