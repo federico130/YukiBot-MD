@@ -158,10 +158,6 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 
 ---
 
-### **`🌌 HOSTING-PY`**
-
-<a
-href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z2.jpg" height="125px"></a>
 
 <details>
  <summary><b> 🌠 Servidor HostingPy</b></summary>
@@ -176,8 +172,6 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 
 ---
 
-###  **`DESCONOSIDO`**
-<a href="https://federico130.com"><img src="https://tinyurl.com/23qv2kvr" height="145px"></a>
 
 <details>
  <summary><b>♣️ Servidor Bronxy-Hosting</b></summary>
