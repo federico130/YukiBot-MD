@@ -142,8 +142,6 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 
 ---
 
-###  **`☄️fede`**
-<a href="https://home.akirax.net"><img src="https://qu.ax/AVgaL.jpg" height="145px"></a>
 
 <details>
  <summary><b>💠 Servidor Akirax-Hosting</b></summary>
