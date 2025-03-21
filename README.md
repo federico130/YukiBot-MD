@@ -168,9 +168,9 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 
 * Dashboard  [`Dash`](https://dahs.hostingpy.shop)
 * Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
+* Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g)
+* Comunidad  [`Aquí`](https://chat.whatsapp.com/HnfmlRC5zXr11afTc5YQjE)
+* Contacto(s) [`Soporte`](https://wa.me/5491126852241)
 
 </details>
 
