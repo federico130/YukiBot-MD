@@ -176,7 +176,7 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 
 ---
 
-###  **`©️ BRONXYS-HOSTING`**
+###  **`DESCONOSIDO`**
 <a href="https://bronxyshost.com"><img src="https://tinyurl.com/23qv2kvr" height="145px"></a>
 
 <details>
