@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/federico130/Yuki_Suou-Bot && cd Yuki_Suou-Bot
 ```
 
 ```bash
@@ -117,7 +117,7 @@ npm start
 <summary><b> 💭 Contáctos</b></summary>
 
 * WhatsApp: [`Aquí`](https:/Wa.me/5491126852241)
-* Correo: [`Aquí`](federicovigevani834@gamil.com)
+* Correo: [`Aquí`](federicovigevani999@gamil.com)
 
 </details>
 
