@@ -197,6 +197,4 @@ href="https://github.com/federico130"><img src="https://github.com/The-King-â±á
 <a href="https://github.com/federico130/YukiBot-MD" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/OfcKing.png" width="130" height="130" alt="OfcKing" style="border-radius: 50%;"/>
 </a>
-<a href="https://github.com/federico130/YukiBot-MD" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/federico130/YukiBot-MD" width="130" height="130" alt="federico130" style="border-radius: 50%;"/>
-</a>
+<a href="https://github.com/federico130/YukiBot-MD" style="display:inline-block; margin-right: 10px; text-decoration: none;"
