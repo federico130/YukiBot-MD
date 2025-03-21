@@ -193,9 +193,8 @@ href="https://dahs.hostingpy.shop/home"><img src="https://files.catbox.moe/lr92z
 ---
 
 ### **`🌟 Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
+<a href="https://github.com/federico130/YukiBot-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=federico130"/></a>
 
 ### **`👑 Propietario`**
 <a
