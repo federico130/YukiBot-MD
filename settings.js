@@ -54,10 +54,10 @@ global.yukiJadibts = true
 global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
 global.botname = 'Yuki-Suou-BoT–MD'
 global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
-global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.author = 'Made By ⁱᵃᵐ᭄𝐹ҽԃҽ࿐ཽ༵¹³𝚇'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ᭄𝐹ҽԃҽ࿐ཽ༵¹³𝚇'
+global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ᭄𝐹ҽԃҽ࿐ཽ༵¹³𝚇'
+global.etiqueta = 'ⁱᵃᵐ᭄𝐹ҽԃҽ࿐ཽ༵¹³𝚇'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
