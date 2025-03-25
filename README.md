@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-BσT-MD✦</h1>
+<h1 align="center">✦Yυƙι-Sυσυ-BσT-MD✦</h1>
 
  <img src= "https://files.catbox.moe/om9jai.jpg">
     </p>
