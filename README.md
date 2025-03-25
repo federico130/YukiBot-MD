@@ -1,4 +1,4 @@
-<h1 align="center">✦ Yυƙι-Sυσυ-Bσƚ ✦</h1>
+<h1 align="center">✦ Yυƙι-Sυσυ-BσT–MDƚ ✦</h1>
 
  <img src= "https://files.catbox.moe/om9jai.jpg">
     </p>
@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/federico130/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/federico130/Yuki_Suou-Bot && cd Yuki_Suou-Bot–MD
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Yuki_Suou-Bot–MD
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -138,55 +138,7 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 * Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
 * Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
 
-</details>
-
----
-
-
 <details>
- <summary><b>💠 Servidor Akirax-Hosting</b></summary>
-
-* Dashboard: [`Dash`](https://home.akirax.net)
-* Panel: [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp: [`Canal Akirax`](https://whatsapp.com/channel/0029Vb3Ocrs7IUYNQktqeE11)
-* Comunidad: [`Aquí`](https://chat.whatsapp.com/HekxzfoLBxN1TCwTmrlGcy)
-* Contacto(s): [`Matias`](https://Wa.me/+5491164123932) / [`Tesis`](https://wa.me/522431268546)
-
-</details>
-
----
-
-
-<details>
- <summary><b> 🌠 Servidor HostingPy</b></summary>
-
-* Dashboard  [`Dash`](https://dahs.hostingpy.shop)
-* Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Py`](https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HnfmlRC5zXr11afTc5YQjE)
-* Contacto(s) [`Soporte`](https://wa.me/5491126852241)
-
-</details>
-
----
-
-
-<details>
- <summary><b>♣️ Servidor Bronxy-Hosting</b></summary>
-
-* Dashboard: [`Dash`](https://bronxyshost.com)
-* Panel: [`Panel`](https://bronxyshost.com)
-* Canal de WhatsApp: [`Canal Bronxy`](https://whatsapp.com/channel/0029Va9l48kHbFV6SQFKz93B)
-* Grupo Oficial: [`Aquí`](https://chat.whatsapp.com/GVQsAe6CAjoJLuotkpnAqq)
-* Grupo Soporte: [`Soporte`](https://wa.me/message/OMZQOH4YZ765K1) 
-
-</details>
-
----
-
-### **`🌟 Colaboradores`**
-<a href="https://github.com/federico130/YukiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=federico130"/></a>
 
 ### **`👑 Propietario`**
 <a
