@@ -78,7 +78,7 @@ global.gp1 = 'https://chat.whatsapp.com/J5jRPf1fN6y58CcwkFx5Mj'
 global.comunidad1 = 'https://chat.whatsapp.com/HnfmlRC5zXr11afTc5YQjE'
 global.channel = 'https://whatsapp.com/channel/0029Vb7qqVUEVccHNUzOnr2Y'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb3Grj27oQhbX4Bk0u1g'
-global.md = ''
+global.md = 'https://github.com/federico130/YukiBot-MD/'
 global.correo = 'federicovigevani418@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb7qqVUEVccHNUzOnr2Y';
 
