@@ -75,7 +75,7 @@ global.photoSity = [catalogo]
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.gp1 = 'https://chat.whatsapp.com/J5jRPf1fN6y58CcwkFx5Mj'
-global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
+global.comunidad1 = 'https://chat.whatsapp.com/HnfmlRC5zXr11afTc5YQjE'
 global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
 global.channel2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
 global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
