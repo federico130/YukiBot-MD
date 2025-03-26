@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/federico130/YukiBot‐MD && cd YukBot‐MD
+git clone https://github.com/federico130/YukiBot‐MD && cd YukBot-MD
 ```
 
 ```bash
@@ -83,7 +83,7 @@ npm start
 ❒ Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd YukiBot‐MD
+    cd YukiBot-MD
    ```
 
 ❒ Inicia el bot nuevamente:
