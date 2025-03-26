@@ -55,7 +55,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/federico130/YukiBot‐MD && cd YukBot-MD
+git https://github.com/federico130/YukiBot-MD.git && cd YukiBot-MD
 ```
 
 ```bash
@@ -97,7 +97,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd YukBot‐MD && nano settings.js
+    cd YukiBot-MD && nano settings.js
    ```
 
 </details>
@@ -140,6 +140,7 @@ href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" hei
 
 
 <details>
+
 
 ### **`👑 Propietario`**
 <a
